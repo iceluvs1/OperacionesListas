@@ -1,3 +1,4 @@
+# 📚 Taller — Operaciones con Listas (C++)
 Implementación en **C++** de distintas **estructuras de listas enlazadas**, desarrolladas **desde cero**.
 El proyecto considera los siguientes tipos de listas:
 
